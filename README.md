@@ -18,7 +18,7 @@ An additional benefit is it is able to adapt and scale to meet the demands.
 1. Search for EC2 in the search box on the AWS mgmt console and launch an instance.
    We will set up two instances, one for development and another for production.
 
-   <img src= "https://github.com/user-attachments/assets/477a5223-fb5e-41be-912a-54885e0a7780" width = "450">
+   <img src= "https://github.com/user-attachments/assets/477a5223-fb5e-41be-912a-54885e0a7780" width = "500">
 
    I gave the name and a tag for my instances. It is important to given every EC2 instance a unique name in its AWS Region. 
 
@@ -29,7 +29,7 @@ An additional benefit is it is able to adapt and scale to meet the demands.
 
    For this project, I am selected the Amazon Linux from the free tier options.
 
-   <img src = "https://github.com/user-attachments/assets/79807909-da88-4139-8a18-84407f8036b8" width = "400">
+   <img src = "https://github.com/user-attachments/assets/79807909-da88-4139-8a18-84407f8036b8" width = "500">
 
 3. Select the instance type
    Instance types deals with the hardware aspects. CPU power, memory size, storage space, etc are slected with the instance type and determine how powerful the instance performs.
@@ -41,7 +41,7 @@ An additional benefit is it is able to adapt and scale to meet the demands.
 4. Create a key pair
    The key pair  is used for securely accessing the EC2 instance without going through the AWS Mangement Console. I can use SSH access with the key pairs for this purpose. This allows for additional troubleshooting and managment capabilities.
    
-   <img src ="https://github.com/user-attachments/assets/b702187f-b8e1-4c20-b071-9371ad27b832" width = "400">
+   <img src ="https://github.com/user-attachments/assets/b702187f-b8e1-4c20-b071-9371ad27b832" width = "500">
 
 
  
