@@ -41,7 +41,7 @@ An additional benefit is it is able to adapt and scale to meet the demands.
 4. Create a key pair
    The key pair  is used for securely accessing the EC2 instance without going through the AWS Mangement Console. I can use SSH access with the key pairs for this purpose. This allows for additional troubleshooting and managment capabilities.
    
-   <img src ="https://github.com/user-attachments/assets/b702187f-b8e1-4c20-b071-9371ad27b832" width = "500">
+   <img src ="https://github.com/user-attachments/assets/b702187f-b8e1-4c20-b071-9371ad27b832" width = "400">
 
 
  
